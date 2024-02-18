@@ -1,6 +1,6 @@
 # Sprint Mint Marketplace
 
-![Logo](/styles/images/logo4git.png)
+![Logo]([http://zkgreeter.j.pl/AddresForgeLogo-removebg-preview.png])
 
 Welcome to XXX, your 
 
